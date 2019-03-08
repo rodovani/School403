@@ -1,11 +1,11 @@
 <html>
 <head>
 <meta content="text/html; charset=utf-8" />
-<title>ProjectSchoo404</title>
+<title>school402</title>
 <Center>
-<BODY TEXT="#feffff">
+<BODY TEXT="#FF69B4">
 <font size=7>
-<font face ="Times New Roman">ASTRA.Security web</font>
+<font face ="Times New Roman">------------------web</font>
 </font>
 </BODY>
 </Center>
